@@ -14,7 +14,7 @@ link
 | Member                | Links                                                                                                                                     |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Doç. Dr. Murat Yılmaz | [LinkedIn](https://www.linkedin.com/in/muraty/)                             [Resume](https://avesis.gazi.edu.tr/my/indir?languageCode=tr) |
-| Ömer Bayramçavuş      | [LinkedIn](https://openai.com/product) [GitHub](https://openai.com/product) [Resume](https://flowcv.com/resume/mow53g12eb)                |
+| Ömer Bayramçavuş      | [LinkedIn](https://openai.com/product) [GitHub](https://openai.com/product) [Resume](https://flowcv.com/resume/vdrc3d3ie9)                |
 | Seda N. Taşkan        | [LinkedIn](https://openai.com/product) [GitHub](https://openai.com/product) [Resume](https://flowcv.com/resume/mow53g12eb)                |
 
 ## Model
