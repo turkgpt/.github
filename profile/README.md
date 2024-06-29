@@ -1,13 +1,4 @@
----
-title: README
-emoji: 💻
-colorFrom: blue
-colorTo: pink
-sdk: static
-pinned: false
----
-
-# Türk-GPT
+# Turk-GPT
 
 The project aims to facilitate access to internal information and increase employee productivity by using the most up-to-date approaches in today's rapidly developing artificial intelligence technologies and natural language processing (NLP). Türk-GPT is designed as an artificial intelligence assistant that can provide accurate, reliable and fast answers to employees' questions by thoroughly analyzing internal company documents and data.
 
