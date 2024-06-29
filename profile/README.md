@@ -1,13 +1,22 @@
+---
+title: README
+emoji: 💻
+colorFrom: blue
+colorTo: pink
+sdk: static
+pinned: false
+---
+
 # Türk-GPT
 
 The project aims to facilitate access to internal information and increase employee productivity by using the most up-to-date approaches in today's rapidly developing artificial intelligence technologies and natural language processing (NLP). Türk-GPT is designed as an artificial intelligence assistant that can provide accurate, reliable and fast answers to employees' questions by thoroughly analyzing internal company documents and data.
 
 <p align="center">
-    <img src="./asset/logo.png" width="200" />
+    <img src="https://github.com/turkgpt/.github/raw/main/profile/asset/logo.png" width="200" />
 </p>
 
 ## App
-link
+[https://turk-gpt.com/](https://turk-gpt.com/)   
 
 
 ## Team
@@ -20,7 +29,7 @@ link
 ## Model
 |                       | Link                                                                                                                                      |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Turk-GPT               | [Turk-GPT-v0.2](https://huggingface.co/turkgpt/Turk-GPT-v0.2)                                                                            |
+| Turk-GPT               | [turkgpt/turkgpt-v0.1](https://huggingface.co/turkgpt/turkgpt-v0.1)                                                                            |
 
 
 ## Contributing
@@ -36,3 +45,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
         </b>
     </i>
 </p>
+
